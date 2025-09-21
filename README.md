@@ -1,2 +1,3 @@
 # vts-discord-bot
-vts discord bot logo
+vts discord bot loanasn
+go
